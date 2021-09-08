@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+  margin: 0;
+}
+
+.App {
+  background-color: #ffe6e3;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.user-card, .follower-card {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 8px 8px 0 0 #ffd9d8;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+img {
+  max-width: 200px;
+  margin: auto;
+}
